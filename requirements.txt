@@ -1,6 +1,6 @@
 six==1.10.0
 ddtrace-invitae==0.10.0
-django==1.11.9
+django==4.2
 django-oauth2-provider==0.3-invitae
 ipython==4
 selenium==2.26.0
