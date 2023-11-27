@@ -2,7 +2,7 @@ six==1.10.0
 ddtrace-invitae==0.10.0
 django==1.11.9
 django-oauth2-provider==0.3-invitae
-ipython==4
+ipython==8.18.1
 selenium==2.26.0
 PyVirtualDisplay==0.1.0
 BeautifulSoup4==4.1.3
